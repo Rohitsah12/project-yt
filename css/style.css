@@ -17,6 +17,7 @@ p{
     display:flex;
     flex-direction:row-reverse;
     border:5px solid black;
+
   
     /* justify-content: space-around; */
     column-gap: 20px;
@@ -37,6 +38,6 @@ a{
 }
 button:hover{
   
-    border:2px solid red;
+    border:2px solid grey;
     
 }
