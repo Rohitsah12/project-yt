@@ -1,1 +1,1 @@
-i am going to make 10 projects from yt
+This my basic webpages which i learn to creat in class
