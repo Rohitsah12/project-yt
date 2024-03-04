@@ -1,6 +1,10 @@
 body{
     background-color:pink;
 }
+*{
+    margin:0px;
+    padding:0px;
+}
 
 
 .container{
@@ -27,5 +31,5 @@ a{
 button:hover{
   
     border:2px solid red;
-    background-color: chartreuse;
+    
 }
